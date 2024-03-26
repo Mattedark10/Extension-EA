@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.electronic-ars.com/*"],
+      "matches": ["*://*.ea.com/login/*"],
       "js": ["content.js"]
     }
   ],
